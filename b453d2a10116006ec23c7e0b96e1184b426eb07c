@@ -16,6 +16,24 @@
       "revId": "b453d2a10116006ec23c7e0b96e1184b426eb07c",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad9bd40_88873b0f",
+        "filename": "puppet-magnum.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2016-10-13T13:41:11Z",
+      "side": 1,
+      "message": "I did it this way to be consistent with the change done in newton-rdo branches previously. We did similar changes for the rest of openstack projects, https://review.rdoproject.org/r/#/q/topic:fix-puppet-tarballs",
+      "parentUuid": "9ad9bd40_a8e6bf14",
+      "revId": "b453d2a10116006ec23c7e0b96e1184b426eb07c",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
