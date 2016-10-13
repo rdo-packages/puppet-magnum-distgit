@@ -23,7 +23,7 @@ Requires:               puppet >= 2.7.0
 Installs and configures OpenStack Magnum.
 
 %prep
-%setup -q -n %{name}-%{upstream_version}
+%setup -q -n openstack-magnum-%{upstream_version}
 
 find . -type f -name ".*" -exec rm {} +
 find . -size 0 -exec rm {} +
