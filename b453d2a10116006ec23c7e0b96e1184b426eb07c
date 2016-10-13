@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_a8e6bf14",
+        "filename": "puppet-magnum.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 61
+      },
+      "writtenOn": "2016-10-13T13:20:52Z",
+      "side": 1,
+      "message": "What would you think of instead putting at the top:\n\n%define upstream_name openstack-magnum\n\nThis would be more consistent with how we did, for example, puppet-dns, and would be easier to later change (or use elsewhere in the spec if needed)",
+      "revId": "b453d2a10116006ec23c7e0b96e1184b426eb07c",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
