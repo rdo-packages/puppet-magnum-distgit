@@ -52,6 +52,24 @@
       "revId": "b453d2a10116006ec23c7e0b96e1184b426eb07c",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad9bd40_28ee2f8c",
+        "filename": "puppet-magnum.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2016-10-13T15:18:13Z",
+      "side": 1,
+      "message": "I like the macro approach, but then we should change it in all puppet openstack projects. I\u0027d propose to keep this as is for consistency reasons and do a a full review of specs for puppet-* to change it in rpm-master and cherry-pick it to newton-rdo.",
+      "parentUuid": "9ad9bd40_08d88b1c",
+      "revId": "b453d2a10116006ec23c7e0b96e1184b426eb07c",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
