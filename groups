@@ -1,5 +1,5 @@
-# UUID          Group Name
-False 	Non-Interactive Users
-4cb06e997453a16c5d195fea143fcfa84349601d       	puppet/puppet-magnum-distgit-core
-3cc6af69fd1610951c3e2c2e8814a49d17656af9        	puppet/puppet-magnum-distgit-ptl
-global:Registered-Users		Registered Users
+# UUID                                  	Group Name
+#
+3cc6af69fd1610951c3e2c2e8814a49d17656af9	puppet/puppet-magnum-distgit-ptl
+4cb06e997453a16c5d195fea143fcfa84349601d	puppet/puppet-magnum-distgit-core
+global:Registered-Users                 	Registered Users
