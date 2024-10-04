@@ -1,0 +1,8 @@
+Code-Review+2: Joel Capitao <jcapitao@redhat.com>
+Verified+2: Zuul CI <zuul@review.rdoproject.org>
+Workflow+1: Joel Capitao <jcapitao@redhat.com>
+Submitted-by: Zuul CI <zuul@review.rdoproject.org>
+Submitted-at: Fri, 04 Oct 2024 12:01:56 +0000
+Reviewed-on: https://review.rdoproject.org/r/c/puppet/puppet-magnum-distgit/+/54940
+Project: puppet/puppet-magnum-distgit
+Branch: refs/heads/dalmatian-rdo
