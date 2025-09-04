@@ -66,3 +66,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/magnum/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-magnum/commit/f1b90ab3f7c319c4064258c8124ced6a75657f4b
